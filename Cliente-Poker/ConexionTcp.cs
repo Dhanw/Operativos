@@ -42,6 +42,7 @@ namespace Cliente_Poker
                 _lectorThread.Start();
                 conected = true;
                 return true;
+                // comentario del pull
             }
             catch (Exception)
             {
