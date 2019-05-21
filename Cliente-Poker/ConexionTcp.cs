@@ -31,6 +31,7 @@ namespace Cliente_Poker
         #region Métodos
         public bool Conectar(string ipadress)
         {//Método que intenta establecer una conexión con el servidor
+            // Conexion con el server
             try
             {
                 // esto se hace tambien en el server
