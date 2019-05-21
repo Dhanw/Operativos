@@ -33,6 +33,7 @@ namespace Cliente_Poker
         {//Método que intenta establecer una conexión con el servidor
             try
             {
+                // esto se hace tambien en el server
                 _tcpClient = new TcpClient();
                 _tcpClient.Connect(IPAddress.Parse(ipadress), 6000);
                 _networkStream = _tcpClient.GetStream();
