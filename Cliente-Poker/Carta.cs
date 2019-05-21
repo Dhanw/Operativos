@@ -88,4 +88,5 @@ namespace Cliente_Poker
         }//Fin método Equals 
         #endregion
     }//Fin clase Carta.cs
+    //...prueba
 }
