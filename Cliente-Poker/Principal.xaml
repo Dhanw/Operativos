@@ -8,7 +8,7 @@
         Title="Texas Holdem Poker" Height="450" Width="800">
     <Grid>
         <Grid.Background>
-            <ImageBrush ImageSource="C:\Users\Jose\Desktop\Backuo\Cliente-Poker\images\green.jpg" Stretch="UniformToFill"/>
+            <ImageBrush ImageSource="https://thumbs.dreamstime.com/t/fondo-verde-della-tavola-della-mazza-61373826.jpg" Stretch="UniformToFill"/>
         </Grid.Background>
         <Border BorderThickness="2" BorderBrush="White" CornerRadius="0" Background="Transparent" HorizontalAlignment="Left" VerticalAlignment="Top" Width="172" Height="161" Margin="0,10,0,0">
             <TextBlock Height="23" HorizontalAlignment="Center" Margin="44,8,29,0" x:Name="Apuestas" VerticalAlignment="Top" Width="95" RenderTransformOrigin="-0.658,0.391" FontSize="18" FontWeight="Bold" FontFamily="TImes New Roman" ><Run Text="Apuestas"/></TextBlock>
