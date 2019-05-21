@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.28822.285
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente-Poker", "Cliente-Poker\Cliente-Poker.csproj", "{B1D1E5BA-3978-4D6B-80AB-1EFCCBBCF76B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servidor-BlackJack", "..\Servidor-BlackJack\Servidor-BlackJack.csproj", "{F3D12780-3B66-418C-87CC-3165BD86ED19}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servidor-BlackJack", "Servidor-BlackJack\Servidor-BlackJack.csproj", "{F3D12780-3B66-418C-87CC-3165BD86ED19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
