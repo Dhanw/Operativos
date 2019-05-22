@@ -89,4 +89,5 @@ namespace Cliente_Poker
         #endregion
     }//Fin clase Carta.cs
     //...prueba
+    //...prueba2
 }
